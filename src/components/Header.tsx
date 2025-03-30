@@ -15,8 +15,8 @@ export default function Header() {
     <header className="bg-gray-900 py-2">
       <div className="container mx-auto px-4">
         <div className="flex items-center justify-between">
-          <Link href="/" className="text-xl font-bold">
-            Neoathes
+          <Link href="/" className="text-2xl font-bold tracking-[0.3em] hover:opacity-75 transition-opacity">
+            NEOATHES
           </Link>
           
           <nav className="flex items-center gap-6">
