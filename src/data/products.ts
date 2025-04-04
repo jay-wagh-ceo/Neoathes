@@ -3,129 +3,129 @@ import { Product } from '@/types/product';
 export const products: Product[] = [
   {
     id: 'shirt-1',
-    name: 'Mint-Green Cotton Lycra Full Sleeves',
+    name: 'Mint Green Premium Cotton Shirt',
     price: 500,
     image: '/images/products/shirts/mint-green.png',
     sizes: ['XL', 'L', 'M'],
     category: 'shirts',
-    description: 'Premium cotton white shirt with pearl buttons'
+    description: 'Elegant mint green cotton shirt with perfect fit and premium finish'
   },
   {
     id: 'shirt-2',
-    name: 'COTTON LYCRA FULL SLEEVES SHIRT',
+    name: 'Navy Blue Cotton Lycra Shirt',
     price: 500,
     image: '/images/products/shirts/s2.png',
     sizes: ['XL', 'L', 'M'],
     category: 'shirts',
-    description: 'Elegant black shirt with silk blend fabric'
+    description: 'Classic navy blue cotton lycra shirt with modern styling'
   },
   {
     id: 'shirt-3',
-    name: 'COTTON LYCRA FULL SLEEVES SHIRT',
+    name: 'Sky Blue Cotton Blend Shirt',
     price: 500,
     image: '/images/products/shirts/s3.png',
     sizes: ['XL', 'L', 'M'],
     category: 'shirts',
-    description: 'Classic navy blue shirt with premium finish'
+    description: 'Light and comfortable sky blue shirt with premium cotton blend'
   },
   {
     id: 'shirt-4',
-    name: 'COTTON LYCRA FULL SLEEVES SHIRT',
+    name: 'White Premium Cotton Shirt',
     price: 500,
     image: '/images/products/shirts/s4.png',
     sizes: ['XL', 'L', 'M'],
     category: 'shirts',
-    description: 'Contemporary gray shirt with modern cut'
+    description: 'Pure white premium cotton shirt with elegant design'
   },
   {
     id: 'shirt-5',
-    name: 'COTTON LYCRA FULL SLEEVES SHIRT',
+    name: 'Black Luxury Cotton Shirt',
     price: 500,
     image: '/images/products/shirts/s5.png',
     sizes: ['XL', 'L', 'M'],
     category: 'shirts',
-    description: 'Rich burgundy shirt with premium detailing'
+    description: 'Sophisticated black cotton shirt with luxury finish'
   },
   {
     id: 'shirt-6',
-    name: 'COTTON LYCRA FULL SLEEVES SHIRT',
+    name: 'Light Gray Cotton Blend Shirt',
     price: 500,
     image: '/images/products/shirts/s6.png',
     sizes: ['XL', 'L', 'M'],
     category: 'shirts',
-    description: 'Fresh light blue shirt with classic styling'
+    description: 'Modern light gray shirt with comfortable cotton blend'
   },
   {
     id: 'shirt-7',
-    name: 'COTTON LYCRA FULL SLEEVES SHIRT',
+    name: 'Royal Blue Premium Shirt',
     price: 500,
     image: '/images/products/shirts/s7.png',
     sizes: ['XL', 'L', 'M'],
     category: 'shirts',
-    description: 'Sophisticated charcoal shirt with premium finish'
+    description: 'Vibrant royal blue shirt with premium quality fabric'
   },
   {
     id: 'shirt-8',
-    name: 'COTTON LYCRA FULL SLEEVES SHIRT',
+    name: 'Charcoal Gray Cotton Shirt',
     price: 500,
     image: '/images/products/shirts/s8.png',
     sizes: ['XL', 'L', 'M'],
     category: 'shirts',
-    description: 'Pure white shirt with luxury fit'
+    description: 'Classic charcoal gray shirt with perfect fit'
   },
   {
     id: 'shirt-9',
-    name: 'COTTON LYCRA FULL SLEEVES SHIRT',
+    name: 'Dark Blue Luxury Shirt',
     price: 500,
     image: '/images/products/shirts/s9.png',
     sizes: ['XL', 'L', 'M'],
     category: 'shirts',
-    description: 'Striking royal blue shirt with premium quality'
+    description: 'Premium dark blue shirt with luxury styling'
   },
   {
     id: 'shirt-10',
-    name: 'COTTON LYCRA FULL SLEEVES SHIRT',
+    name: 'Light Blue Cotton Shirt',
     price: 500,
     image: '/images/products/shirts/s10.png',
     sizes: ['XL', 'L', 'M'],
     category: 'shirts',
-    description: 'Modern black shirt with luxury detailing'
+    description: 'Comfortable light blue cotton shirt with modern design'
   },
   {
     id: 'shirt-11',
-    name: 'COTTON LYCRA FULL SLEEVES SHIRT',
+    name: 'Navy Premium Cotton Shirt',
     price: 500,
     image: '/images/products/shirts/s11.png',
     sizes: ['XL', 'L', 'M'],
     category: 'shirts',
-    description: 'Elegant cream shirt with premium finish'
+    description: 'Classic navy shirt with premium cotton quality'
   },
   {
     id: 'shirt-12',
-    name: 'COTTON LYCRA FULL SLEEVES SHIRT',
+    name: 'Sky Blue Luxury Shirt',
     price: 500,
     image: '/images/products/shirts/s12.png',
     sizes: ['XL', 'L', 'M'],
     category: 'shirts',
-    description: 'Contemporary navy shirt with modern styling'
+    description: 'Elegant sky blue shirt with luxury finish'
   },
   {
     id: 'shirt-13',
-    name: 'COTTON LYCRA FULL SLEEVES SHIRT',
+    name: 'White Cotton Blend Shirt',
     price: 500,
     image: '/images/products/shirts/s13.png',
     sizes: ['XL', 'L', 'M'],
     category: 'shirts',
-    description: 'Sophisticated gray shirt with luxury finish'
+    description: 'Pure white cotton blend shirt with perfect fit'
   },
   {
     id: 'shirt-14',
-    name: 'COTTON LYCRA FULL SLEEVES SHIRT',
+    name: 'Gray Premium Cotton Shirt',
     price: 500,
     image: '/images/products/shirts/s14.png',
     sizes: ['XL', 'L', 'M'],
     category: 'shirts',
-    description: 'Pure white shirt with premium quality'
+    description: 'Modern gray shirt with premium cotton quality'
   },
   {
     id: 'shirt-15',
