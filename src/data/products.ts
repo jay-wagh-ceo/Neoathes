@@ -3,9 +3,9 @@ import { Product } from '@/types/product';
 export const products: Product[] = [
   {
     id: 'shirt-1',
-    name: 'Classic White Luxury Shirt',
+    name: 'Mint-Green Cotton Lycra Full Sleeves',
     price: 500,
-    image: 'https://images.unsplash.com/photo-1596755094514-f87e34085b2c?w=800&auto=format&fit=crop&q=60',
+    image: '/images/products/shirts/mint-green.png",
     sizes: ['XL', 'L', 'M'],
     category: 'shirts',
     description: 'Premium cotton white shirt with pearl buttons'
